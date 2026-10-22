@@ -1,0 +1,14 @@
+/home/kayanne-rdg/Área de trabalho/pilha/bin/Debug/net10.0/pilha
+/home/kayanne-rdg/Área de trabalho/pilha/bin/Debug/net10.0/pilha.deps.json
+/home/kayanne-rdg/Área de trabalho/pilha/bin/Debug/net10.0/pilha.runtimeconfig.json
+/home/kayanne-rdg/Área de trabalho/pilha/bin/Debug/net10.0/pilha.dll
+/home/kayanne-rdg/Área de trabalho/pilha/bin/Debug/net10.0/pilha.pdb
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.GeneratedMSBuildEditorConfig.editorconfig
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.AssemblyInfoInputs.cache
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.AssemblyInfo.cs
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.csproj.CoreCompileInputs.cache
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.dll
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/refint/pilha.dll
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.pdb
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/pilha.genruntimeconfig.cache
+/home/kayanne-rdg/Área de trabalho/pilha/obj/Debug/net10.0/ref/pilha.dll
